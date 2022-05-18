@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm a Rust Developer</h1>
 <h3 align="center">A Backend Engineer from UK</h3>
 
-- 🔭 I’m currently working on **Sanbox with rust**
-
 - 🌱 I’m currently learning **Expert Systems in Artificial Intelligence**
 
 - 👯 I’m looking to collaborate on **Memory and Performance Improvements on Rust Projects **
+
+- 🔭 I’m currently working on **Sandboxing with rust**
 
 - 👨‍💻 All of my projects are available at [github.com/oligriffs47](github.com/oligriffs47)
 
